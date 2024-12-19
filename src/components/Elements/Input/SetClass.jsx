@@ -2,7 +2,7 @@ import { useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleCheck, faXmark } from "@fortawesome/free-solid-svg-icons";
-import BoxSearch from "../Search/BoxSearch";
+import BoxSearch from "../Search/boxSearch";
 
 function SetClass({ close, setSeat, data }) {
   const [openClass, setOpenClass] = useState(null);
