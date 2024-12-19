@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import SetPassenger from "../../Elements/Input/SetPassengers";
-import Backdrop from "../../Elements/Search/Backdrop";
+import Backdrop from "../../Elements/Search/backdrop";
 
 function Passengers({ change, prefillPassengers }) {
   const [showSetPassenger, setShowSetPassenger] = useState(false);
