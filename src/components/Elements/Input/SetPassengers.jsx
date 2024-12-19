@@ -7,7 +7,7 @@ import {
   faChildDress,
   faChildReaching,
 } from "@fortawesome/free-solid-svg-icons";
-import BoxSearch from "../Search/BoxSearch";
+import BoxSearch from "../Search/boxSearch";
 
 function SetPassenger({ close, setFields }) {
   const [counters, setCounters] = useState([0, 0, 0]);
