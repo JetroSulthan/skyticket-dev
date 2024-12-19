@@ -366,7 +366,7 @@ function HomepageForm({ prefillData }) {
             <div className="block w-6 md:hidden">
               <img
                 alt="Seat Icon"
-                src="/public/assets/icons/seat.svg"
+                src="/assets/icons/seat.svg"
                 className="size-7"
               />
             </div>
