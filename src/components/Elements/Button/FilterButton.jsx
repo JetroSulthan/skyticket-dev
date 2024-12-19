@@ -6,7 +6,7 @@ const FilterButton = ({ onClick , text}) => {
       onClick={onClick}
     >
       <img
-        src="/public/assets/icons/prefix-wrapper.svg"
+        src="/assets/icons/prefix-wrapper.svg"
         alt="Termurah"
         className="pr-2"
       />

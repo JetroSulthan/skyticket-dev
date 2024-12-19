@@ -60,7 +60,7 @@ function AccordionBox({ onclickHandler, flight, isOpen }) {
             <div className="hidden md:block">
               <img
                 alt="Baggage Icon"
-                src="/public/assets/icons/baggage.svg"
+                src="/assets/icons/baggage.svg"
                 className="w-auto"
               />
             </div>
