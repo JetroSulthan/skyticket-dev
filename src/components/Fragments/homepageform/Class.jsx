@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Backdrop from "../../Elements/Search/Backdrop";
+import Backdrop from "../../Elements/Search/backdrop";
 import SetClass from "../../Elements/Input/SetClass";
 import { fetchClassPrice } from "../../../services/classPriceService";
 

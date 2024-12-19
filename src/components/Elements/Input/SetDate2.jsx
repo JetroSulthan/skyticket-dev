@@ -2,7 +2,7 @@ import { useState } from "react";
 import Calendar from "react-calendar/dist/cjs/Calendar.js";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXmark } from "@fortawesome/free-solid-svg-icons";
-import Backdrop from "../Search/Backdrop";
+import Backdrop from "../Search/backdrop";
 
 function SetDate2({ onClick, onClose }) {
   const [value, setValue] = useState(new Date());

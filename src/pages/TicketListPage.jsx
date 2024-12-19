@@ -5,7 +5,7 @@ import Button from "../components/Elements/Button/Button";
 import FilterButton from "../components/Elements/Button/FilterButton";
 import DateList from "../components/Elements/Date/DateList";
 import FlightInfo from "../components/Elements/Header/FlightInfo";
-import Accordion from "../components/Fragments/DetailPage/Accordion";
+import Accordion from "../components/Fragments/detailpage/accordion";
 import FilterItem from "../components/Fragments/Filter/FilterItem";
 import FilterModal from "../components/Fragments/Filter/FilterModals";
 import LoadingAnimation from "../components/Fragments/Loader/LoadingAnimation";

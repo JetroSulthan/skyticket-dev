@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXmark, faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 
-import Box from "../Search/Box";
+import Box from "../Search/box";
 import { fetchAirports } from "../../../services/airportsService";
 
 function SetDestination({ close, setCity }) {
