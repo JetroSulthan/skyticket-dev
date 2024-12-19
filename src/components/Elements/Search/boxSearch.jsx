@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXmark } from "@fortawesome/free-solid-svg-icons";
-import Box from "./Box";
+import Box from "./box";
 
 function BoxSearch({ children, save, closeHandler, isShort }) {
   return (
